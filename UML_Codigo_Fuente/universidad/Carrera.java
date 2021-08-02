@@ -8,7 +8,7 @@ public class Carrera {
 
 	private int semestres;
 
-	private int nivel;
+	private String nivel;
 
 	private Curso curso;
 
@@ -18,7 +18,7 @@ public class Carrera {
 
 	}
 
-	public string getNombre() {
+	public String getNombre() {
 		return null;
 	}
 
@@ -42,7 +42,7 @@ public class Carrera {
 
 	}
 
-	public int getNivel() {
+	public String getNivel() {
 		return 0;
 	}
 
